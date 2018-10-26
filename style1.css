@@ -1,0 +1,12 @@
+body{
+    display: flex;
+}
+.token.selector{
+    color: black
+}
+.token.property{
+    color: black
+}
+.token.function{
+    color: black
+}

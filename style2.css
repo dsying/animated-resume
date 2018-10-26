@@ -1,0 +1,9 @@
+.token.selector{
+    color: #690;
+}
+.token.property{
+    color: #905;
+}
+.token.function{
+    color: #DD4A68;
+}
