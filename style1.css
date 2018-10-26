@@ -10,3 +10,7 @@ body{
 .token.function{
     color: black
 }
+#pre{
+    height: 100vh;
+    overflow: hidden;
+}
